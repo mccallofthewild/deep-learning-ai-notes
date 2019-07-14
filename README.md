@@ -1,8 +1,8 @@
 # Deep Learning AI Notes 👩‍🔬
-Deep Learning Concepts, Algorithms, Code &amp; more from [Andrew Ng's Deep Learning Specialization on Coursera](https://www.coursera.org/learn/neural-networks-deep-learning/)
+Deep Learning Concepts, Algorithms, Code &amp; more
 
 ## Resources
-* 📝[Deep Learning Notation](/resources/deep-learning-notation.pdf)
+* 📝[Deep Learning Notation *by Andrew Ng*](/resources/deep-learning-notation.pdf)
 * ⏮[Backpropagation \[in Detail\] *by J.G. Makin of Cornell*](/resources/backpropagation.pdf)
 
 ## Code
