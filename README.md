@@ -1,5 +1,5 @@
 # Deep Learning AI Notes 👩‍🔬
-Deep Learning Concepts, Algorithms, Code &amp; more from Andrew Ng's Deep Learning Specialization on Coursera
+Deep Learning Concepts, Algorithms, Code &amp; more from [Andrew Ng's Deep Learning Specialization on Coursera](https://www.coursera.org/learn/neural-networks-deep-learning/home/welcome)
 
     Cost function and its gradient for a propagation
 
