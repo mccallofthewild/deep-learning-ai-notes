@@ -2,7 +2,7 @@
 Deep Learning Concepts, Algorithms, Code &amp; more from [Andrew Ng's Deep Learning Specialization on Coursera](https://www.coursera.org/learn/neural-networks-deep-learning/)
 
 ## Resources
-[Deep Learning Notation](/resources/deep-learning-notation.pdf)
+* 📝[Deep Learning Notation](/resources/deep-learning-notation.pdf)
 
 ## Code
 
