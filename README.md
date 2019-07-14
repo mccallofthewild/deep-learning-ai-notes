@@ -3,7 +3,7 @@ Deep Learning Concepts, Algorithms, Code &amp; more from [Andrew Ng's Deep Learn
 
 ## Resources
 * 📝[Deep Learning Notation](/resources/deep-learning-notation.pdf)
-* ⏮[Backpropagation in Detail *by J.G. Makin of Cornell*](/resources/backpropagation.pdf)
+* ⏮[Backpropagation \[in Detail\] *by J.G. Makin of Cornell*](/resources/backpropagation.pdf)
 
 ## Code
 
