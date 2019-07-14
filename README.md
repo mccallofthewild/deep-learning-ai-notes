@@ -1,4 +1,4 @@
-# deep-learning-ai-notes
+# Deep Learning AI Notes 👩‍🔬
 Deep Learning Concepts, Algorithms, Code &amp; more from Andrew Ng's Deep Learning Specialization on Coursera
 
     Cost function and its gradient for a propagation
