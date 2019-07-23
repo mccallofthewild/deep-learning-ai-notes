@@ -5,6 +5,9 @@ Deep Learning Concepts, Algorithms, Code &amp; more
 * 📝[Deep Learning Notation *by Andrew Ng*](/resources/deep-learning-notation.pdf)
 * ⏮[Backpropagation \[in Detail\] *by J.G. Makin of Cornell*](/resources/backpropagation.pdf)
 
+## Cheatsheets 
+* [Mahmoud Badry's DeepLearning.ai Summary](https://github.com/mbadry1/DeepLearning.ai-Summary)
+
 ## Code
 
     Cost function and its gradient for a propagation
